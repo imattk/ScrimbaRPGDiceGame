@@ -42,7 +42,7 @@ function endGame() {
     const endMessage = wizard.health === 0 && monster.health === 0 ?
         "No victory here today... both good and evil have been defeated" :
         wizard.health > 0 ? "The Wizard has fought with courage and determination... Evil has been defeated this day" :
-            "Evil has demonstrated the existence Victory this day"
+            "Evil has demonstrated it's power this day"
 
     const endEmoji = wizard.health > 0 ? "🔮" : "☠️"
     const endpicture = wizard.health > 0 ? "wiz-victory" : "monster-victory"
