@@ -22,5 +22,5 @@ this was a fun and dificult module. It showed me all of the gaps I had in my jav
 -	Arrow Functions
 -	.setTImeOut() 
 
-live site: 
+live site: https://imattk.github.io/ScrimbaRPGDiceGame/
 
