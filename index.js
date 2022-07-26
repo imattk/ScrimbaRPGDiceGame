@@ -9,16 +9,6 @@ function getNewMonster() {
     return nextMonsterData ? new Character(nextMonsterData) : {}
 }
 
-/*
-Challenge
-1. Disable the user's ability to attack when a monster dies.
-2. Reneable the user's ability to attack when a new monster
-loads.
-3. When the game is over, disable the user's ability to attack.
-**hint.md for help!!**
-*/
-
-
 function attack() {
     if(!isWaiting){
         wizard.getDiceHtml()
@@ -77,6 +67,9 @@ function render() {
 function reload(){
     location.reload();
 }
+
+
 const wizard = new Character(characterData.hero)
 let monster = getNewMonster()
+
 render()
