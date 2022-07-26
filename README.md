@@ -3,8 +3,6 @@
 Scrimba module 6 - Next Level JavaScript
 
 
-***** NOT WORKING IN CHROME ****** ???? if someone knows the answer as to why, please help! 
-
 this was a fun and dificult module. It showed me all of the gaps I had in my javaScript knowledge and helped solidify my abilities.
 
 # Knowledge expanded in --
@@ -26,4 +24,7 @@ this was a fun and dificult module. It showed me all of the gaps I had in my jav
 -	.setTImeOut() 
 
 live site: https://imattk.github.io/ScrimbaRPGDiceGame/
+
+***** NOT WORKING IN CHROME ****** ???? if someone knows the answer as to why, please help! 
+works just fine in edge and safari
 
