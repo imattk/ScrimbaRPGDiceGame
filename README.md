@@ -25,6 +25,4 @@ this was a fun and dificult module. It showed me all of the gaps I had in my jav
 
 live site: https://imattk.github.io/ScrimbaRPGDiceGame/
 
-***** NOT WORKING IN CHROME ****** ???? if someone knows the answer as to why, please help! 
-works just fine in edge and safari
 
