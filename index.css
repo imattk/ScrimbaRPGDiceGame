@@ -50,7 +50,7 @@ main {
 
 .character-card {
     
-    height:300px;
+    height:70vh;
     margin-top: .5rem;
     width:94vw;
     max-width: 430px;
@@ -70,7 +70,7 @@ main {
 @media(min-width:550px){
     .character-card {
         
-        height:26rem;
+        height:70vh;
         width:37vw;
     }
 }
